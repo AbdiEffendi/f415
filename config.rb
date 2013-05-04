@@ -1,13 +1,14 @@
+gem 'zurb-foundation', '> 4.0.0'
 require 'zurb-foundation'
 # Require any additional compass plugins here.
 
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "wp-content/themes/ocm/"
-sass_dir = "wp-content/themes/ocm/sass"
-images_dir = "wp-content/themes/ocm/images"
-javascripts_dir = "wp-content/themes/ocm/javascripts"
+css_dir = "/"
+sass_dir = "sass"
+images_dir = "images"
+javascripts_dir = "javascripts"
 
 # You can select your preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
