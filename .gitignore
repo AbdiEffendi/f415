@@ -1,4 +1,4 @@
 .htaccess
 .sass-cache
-node-modules
+node_modules
 style.css
